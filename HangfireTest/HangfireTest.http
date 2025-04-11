@@ -1,0 +1,6 @@
+@HangfireTest_HostAddress = http://localhost:5165
+
+GET {{HangfireTest_HostAddress}}/
+Accept: application/json
+
+###
